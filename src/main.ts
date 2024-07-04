@@ -15,7 +15,7 @@ const options: Option[] = [
         target: "_blank",
         classes: "test-class",
         debug: true,
-        ignore: ["SPAN"]
+        ignore: ["SPAN", "A"]
       },
     ],
   },

@@ -1,12 +1,13 @@
-<!-- <img src="./public/4906292.png" alt="drawing" width="200"/> -->
+[![link later banner](./.github/assets/banner.svg)](https://hellraiserrob.github.io/link-later)
 
 # Link Later
-
-## Introduction
 
 This is a small library to find and replace keywords in your html with linked keywords, it could also be easily adapted for different purposes, such as highlighting specific keywords.
 
 Use cases might internal linking for SEO purposes, or affiliate linking.
+
+[Demo](https://hellraiserrob.github.io/link-later/)
+
 
 ## What it does
 
