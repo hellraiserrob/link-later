@@ -12,6 +12,7 @@ const options: Option[] = [
       {
         keywords: "test,logistics solutions",
         href: "/my-logistical-solutions-link",
+        selector: ".after",
         target: "_blank",
         classes: "test-class",
         debug: true,
@@ -25,13 +26,13 @@ const options: Option[] = [
       {
         keywords: "warehouse",
         href: "/my-warehousing-link",
-        selector: ".rich-text",
+        selector: ".after .rich-text",
         debug: true
       },
       {
         keywords: "Inland transportation",
         href: "/my-inland-services-link",
-        selector: ".rich-text",
+        selector: ".after .rich-text",
         debug: true
       },
     ],
